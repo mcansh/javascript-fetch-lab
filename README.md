@@ -1,5 +1,7 @@
 # JavaScript fetch() Lab
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mcansh/javascript-fetch-lab.svg)](https://greenkeeper.io/)
+
 ## Overview
 
 In this lab, you'll use `fetch()` to get remote data from and write data to GitHub. 
